@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Ical.Net;
 using Microsoft.AspNetCore.Mvc;
+using unicron.Extensions;
 using unicron.Models;
 
 namespace unicron.Controllers
@@ -20,7 +21,9 @@ namespace unicron.Controllers
             int quartaFeira,
             int quintaFeira,
             int sextaFeira,
-            int sabado
+            int sabado,
+            bool disciplinaSemestral = true,
+            bool primeiroSemestre = true
             )
         {
             Calendar calendar;
@@ -34,14 +37,42 @@ namespace unicron.Controllers
                      m.Summary.Contains("[FERIADO]")
             );
 
-            var dataInicio = calendar.Events.Where(m => m.Summary.Contains("[INICIO1SEM]")).First().DtStart.Date;
-            var dataEncerramento = calendar.Events.Where(m => m.Summary.Contains("[ENCERRAMENTO1SEM]")).First().DtStart.Date;
-            var recessos = recessosCalendar.Select(m => m.DtStart.Date).ToHashSet();
+            var dataInicio = DateTime.Now;
+            var dataEncerramento = DateTime.Now;
+            if (disciplinaSemestral)
+            {
+                if (primeiroSemestre)
+                {
+                    dataInicio = calendar.Events.Where(m => m.Summary.Contains("[INICIO_SEM1]")).First().DtStart.Date;
+                    dataEncerramento = calendar.Events.Where(m => m.Summary.Contains("[ENCERRAMENTO_SEM1_SEMESTRAL]")).First().DtStart.Date;
+                }
+                else
+                {
+                    dataInicio = calendar.Events.Where(m => m.Summary.Contains("[INICIO_SEM2]")).First().DtStart.Date;
+                    dataEncerramento = calendar.Events.Where(m => m.Summary.Contains("[ENCERRAMENTO_SEM2_SEMESTRAL]")).First().DtStart.Date;
+                }
+            }
+            else
+            {
+                dataInicio = calendar.Events.Where(m => m.Summary.Contains("[INICIO_SEM1]")).First().DtStart.Date;
+                dataEncerramento = calendar.Events.Where(m => m.Summary.Contains("[ENCERRAMENTO_SEM2_ANUAL]")).First().DtStart.Date;
+            }
+            var recessos = recessosCalendar.SelectMany(m => m.DtStart.Date.Range(m.DtEnd.Date.AddDays(-1))).ToHashSet();
 
-            return Cronograma.Generate(dataInicio, dataEncerramento, recessos, cargaHorariaTotal, segundaFeira, tercaFeira, quartaFeira, quintaFeira, sextaFeira, sabado);
+            return Cronograma.Generate(
+                dataInicio,
+                dataEncerramento,
+                recessos,
+                cargaHorariaTotal,
+                segundaFeira,
+                tercaFeira,
+                quartaFeira,
+                quintaFeira,
+                sextaFeira,
+                sabado);
         }
 
-      
-        
+
+
     }
 }

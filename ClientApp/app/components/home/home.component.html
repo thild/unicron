@@ -5,7 +5,8 @@
     <div *ngFor="let diaSemanaAula of diasSemanaAula">
         <label for="{{'text_' + diaSemanaAula.name}}">
             <!-- <input type="checkbox" name="{{'checkbox_' + diaSemanaAula.name}}" value="{{diaSemanaAula.value}}" [(ngModel)]="diaSemanaAula.checked" /> -->
-            {{diaSemanaAula.label}}: <input type="text" name="{{'text_' + diaSemanaAula.name}}" [(ngModel)]="diaSemanaAula.value" />
+            {{diaSemanaAula.label}}:
+            <input type="text" name="{{'text_' + diaSemanaAula.name}}" [(ngModel)]="diaSemanaAula.value" />
         </label>
     </div>
 </div>
@@ -13,6 +14,26 @@
 <div class="form-group">
     <label for="cargaHorariaTotal">Carga horária:</label>
     <input type="text" name="cargaHorariaTotal" value="{{cargaHorariaTotal}}" [(ngModel)]="cargaHorariaTotal" />
+</div>
+
+<label>Tipo de disciplina:</label>
+<div class="form-group">
+    <label>
+        <input type="radio" name="disciplinaSemestral" [value]="true" [(ngModel)]="disciplinaSemestral" /> Semestral
+    </label>
+    <label>
+        <input type="radio" name="disciplinaSemestral" [value]="false" [(ngModel)]="disciplinaSemestral" /> Anual
+    </label>
+</div>
+
+<label>Semestre:</label>
+<div class="form-group">
+    <label>
+        <input disabled={{!disciplinaSemestral}} type="radio" name="primeiroSemestre" [value]="true" [(ngModel)]="primeiroSemestre" /> Primeiro
+    </label>
+    <label>
+        <input disabled={{!disciplinaSemestral}} type="radio" name="primeiroSemestre" [value]="false" [(ngModel)]="primeiroSemestre" /> Segundo
+    </label>
 </div>
 
 <button type="button" title="Gerar cronograma" class="btn btn-success action" (click)="gerarCronograma()">

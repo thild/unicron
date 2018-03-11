@@ -10,6 +10,8 @@ export class HomeComponent {
     public cronograma?: Cronograma = undefined;
     public numbers?: number[];
     public cargaHorariaTotal: number = 68;
+    public disciplinaSemestral: boolean = true;
+    public primeiroSemestre: boolean = true;
 
     diasSemanaAula = [
         { name: 'segundaFeira', label: 'Segunda-Feira', value: '' },
@@ -43,7 +45,11 @@ export class HomeComponent {
             quintaFeira: this.diasSemanaAula[3].value,
             sextaFeira: this.diasSemanaAula[4].value,
             sabado: this.diasSemanaAula[5].value,
+            disciplinaSemestral: this.disciplinaSemestral,
+            primeiroSemestre: this.primeiroSemestre
         }
+        console.log(this.disciplinaSemestral);
+        
         let options: RequestOptionsArgs = {};
         options.params = payload;
         this.http.get(this.baseUrl + 'api/cronograma', options).subscribe(result => {

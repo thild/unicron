@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
+using unicron.Extensions;
 
 namespace unicron.Models
 {
@@ -57,7 +58,7 @@ namespace unicron.Models
 
             var aulasDiaSemana = new int[] { 0, segundaFeira, tercaFeira, quartaFeira, quintaFeira, sextaFeira, sabado };
 
-            foreach (var dia in EachDay(dataInicio, dataEncerramento))
+            foreach (var dia in dataInicio.Range(dataEncerramento))
             {
                 if (aulasDiaSemana[(int)dia.DayOfWeek] != 0)
                 {
@@ -108,11 +109,7 @@ namespace unicron.Models
                 sabado,
                 meses.Values);
         }
-        private static IEnumerable<DateTime> EachDay(DateTime from, DateTime thru)
-        {
-            for (var day = from.Date; day.Date <= thru.Date; day = day.AddDays(1))
-                yield return day;
-        }
+       
     }
     public class Mes
     {
