@@ -1,0 +1,17 @@
+# docker-compose.yml
+
+version: '2'
+
+services:
+  unicron:
+    image: unicron
+    container_name: unicron
+    ports:
+      - 8030:80
+networks:
+ default:
+   external:
+     name: shared
+
+
+
