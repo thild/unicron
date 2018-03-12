@@ -5,7 +5,7 @@
             <legend>Campus:</legend>
             <div *ngFor="let c of campi">
                 <label>
-                    <input type="radio" name="campus" value="{{c.value}}" [(ngModel)]="campus" /> {{c.label}}:
+                    <input type="radio" name="campus" value="{{c.value}}" [(ngModel)]="campus" /> {{c.label}}
                 </label>
             </div>
         </fieldset>
@@ -16,7 +16,7 @@
             <legend>Campus avançado:</legend>
             <div *ngFor="let c of campiAvancado">
                 <label>
-                    <input type="radio" name="campusAvancado" value="{{c.value}}" [(ngModel)]="campusAvancado" /> {{c.label}}:
+                    <input type="radio" name="campusAvancado" value="{{c.value}}" [(ngModel)]="campusAvancado" /> {{c.label}}
                 </label>
             </div>
         </fieldset>
@@ -25,11 +25,15 @@
         <fieldset>
             <legend>Aulas por dia:</legend>
             <div *ngFor="let diaSemanaAula of diasSemanaAula">
-                <label for="{{'text_' + diaSemanaAula.name}}">
-                    <!-- <input type="checkbox" name="{{'checkbox_' + diaSemanaAula.name}}" value="{{diaSemanaAula.value}}" [(ngModel)]="diaSemanaAula.checked" /> -->
-                    {{diaSemanaAula.label}}:
-                    <input class="cargaHoraria" type="text" name="{{'text_' + diaSemanaAula.name}}" [(ngModel)]="diaSemanaAula.value" />
-                </label>
+                <div class="row">
+                    <label class="col-sm-8 col-form-label" for="{{'text_' + diaSemanaAula.name}}">
+                        <!-- <input type="checkbox" name="{{'checkbox_' + diaSemanaAula.name}}" value="{{diaSemanaAula.value}}" [(ngModel)]="diaSemanaAula.checked" /> -->
+                        {{diaSemanaAula.label}}:
+                    </label>
+                    <div class="col-sm-4">
+                        <input class="cargaHoraria" type="text" name="{{'text_' + diaSemanaAula.name}}" [(ngModel)]="diaSemanaAula.value" />
+                    </div>
+                </div>
             </div>
         </fieldset>
     </div>
@@ -69,30 +73,33 @@
     </div>
 </div>
 
-<button type="button" title="Gerar cronograma" class="btn btn-success action" (click)="gerarCronograma()">
-    <i class='fa fa-calendar'></i> Gerar cronograma
-</button>
+<div class="row">
+    <button type="button" title="Gerar cronograma" class="btn btn-success action" (click)="gerarCronograma()">
+        <i class='fa fa-calendar'></i> Gerar cronograma
+    </button>
+</div>
 
-<div *ngIf="cronograma">
-
-    <table class='table' *ngIf="cronograma">
-        <thead>
-            <tr>
-                <th>Mês/Qtde aulas</th>
-                <th *ngFor="let number of numbers">
-                    {{ number }}
-                </th>
-        </thead>
-        <tbody>
-            <tr *ngFor="let mes of cronograma.meses">
-                <td>{{ mes.nome }}</td>
-                <td *ngFor="let dia of mes.dias">
-                    {{ dia }}
-                </td>
-                <td *ngFor="let dia of tdPadRight(mes.dias.length, cronograma.maximoAulasMes)">
-                    -
-                </td>
-            </tr>
-        </tbody>
-    </table>
+<div class="row">
+    <div *ngIf="cronograma">
+        <table class='table' *ngIf="cronograma">
+            <thead>
+                <tr>
+                    <th>Mês/Qtde aulas</th>
+                    <th *ngFor="let number of numbers">
+                        {{ number }}
+                    </th>
+            </thead>
+            <tbody>
+                <tr *ngFor="let mes of cronograma.meses">
+                    <td>{{ mes.nome }}</td>
+                    <td *ngFor="let dia of mes.dias">
+                        {{ dia }}
+                    </td>
+                    <td *ngFor="let dia of tdPadRight(mes.dias.length, cronograma.maximoAulasMes)">
+                        -
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </div>

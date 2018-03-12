@@ -29,7 +29,7 @@ namespace unicron.Controllers
             )
         {
             Calendar calendar;
-            using (var sr = new StreamReader("Data/lSpqyb96.vcs"))
+            using (var sr = new StreamReader("Data/calendario.vcs"))
             {
                 calendar = Calendar.Load(sr.ReadToEnd());
             }
@@ -66,12 +66,18 @@ namespace unicron.Controllers
             {
                 dataInicio = calendar.Events.Where(m => m.Summary.Contains("[INICIO_SEM1]")).First().DtStart.Date;
                 dataEncerramento = calendar.Events.Where(m => m.Summary.Contains("[ENCERRAMENTO_SEM1_ANUAL]")).First().DtStart.Date;
-                recessos = recessosCalendar
-                    .SelectMany(m => m.DtStart.Date.Range(m.DtEnd.Date.AddDays(-1))).ToHashSet();
+                var recessos1sem = recessosCalendar.Where(m => m.DtStart.Date >= dataInicio && m.
+                     DtEnd.Date >= dataEncerramento)
+                     .SelectMany(m => m.DtStart.Date.Range(m.DtEnd.Date.AddDays(-1)))
+                     .ToHashSet();
                 dataInicio = calendar.Events.Where(m => m.Summary.Contains("[INICIO_SEM2]")).First().DtStart.Date;
                 dataEncerramento = calendar.Events.Where(m => m.Summary.Contains("[ENCERRAMENTO_SEM2_ANUAL]")).First().DtStart.Date;
-                recessos.UnionWith(recessosCalendar
-                    .SelectMany(m => m.DtStart.Date.Range(m.DtEnd.Date.AddDays(-1))).ToHashSet());
+                var recessos2sem = recessosCalendar.Where(m => m.DtStart.Date >= dataInicio && m.
+                     DtEnd.Date >= dataEncerramento)
+                     .SelectMany(m => m.DtStart.Date.Range(m.DtEnd.Date.AddDays(-1)))
+                     .ToHashSet();
+                dataInicio = calendar.Events.Where(m => m.Summary.Contains("[INICIO_SEM1]")).First().DtStart.Date;
+                recessos = recessos1sem.Union(recessos2sem).ToHashSet();
             }
 
             return Cronograma.Generate(

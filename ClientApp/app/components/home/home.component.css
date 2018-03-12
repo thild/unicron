@@ -7,3 +7,6 @@
  }
 
  .cargaHoraria {width: 60px;}
+
+ .dia-semana-label { float: left}
+ .dia-semana-input { float: right}
