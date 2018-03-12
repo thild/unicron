@@ -5,3 +5,5 @@
  .table td:first-child, .table th:first-child {
     text-align: left;   
  }
+
+ .cargaHoraria {width: 60px;}

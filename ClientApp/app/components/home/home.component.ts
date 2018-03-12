@@ -12,6 +12,8 @@ export class HomeComponent {
     public cargaHorariaTotal: number = 68;
     public disciplinaSemestral: boolean = true;
     public primeiroSemestre: boolean = true;
+    public campus: string = "Cedeteg";
+    public campusAvancado: string = "";
 
     diasSemanaAula = [
         { name: 'segundaFeira', label: 'Segunda-Feira', value: '' },
@@ -22,13 +24,23 @@ export class HomeComponent {
         { name: 'sabado', label: 'Sábado', value: '' },
     ]
 
-    // get selectedDiasSemanaAula() { // right now: ['1','3']
-    //     return this.diasSemanaAula
-    //         .filter(opt => opt.value != '')
-    //         .map(opt => opt.value)
-    // }
+    campi = [
+        { value: 'Cedeteg', label: 'Cedeteg' },
+        { value: 'Irati', label: 'Irati' },
+        { value: 'Santa Cruz', label: 'Santa Cruz' }
+    ]
 
-    public tdPadRight(aulasMes: number, maximoAulasMes: number) : number[] { 
+    
+    campiAvancado = [
+        { value: '', label: 'Nenhum' },
+        { value: 'Chopinzinho', label: 'Chopinzinho' },
+        { value: 'Coronel Vivida', label: 'Coronel Vivida' },
+        { value: 'Laranjeiras do Sul', label: 'Laranjeiras do Sul' },
+        { value: 'Pitanga', label: 'Pitanga' },
+        { value: 'Prudentópolis', label: 'Prudentópolis' },
+    ]
+
+    public tdPadRight(aulasMes: number, maximoAulasMes: number): number[] {
         return Array.from({ length: (maximoAulasMes - aulasMes) }, (v, k) => k + 1);
     }
 
@@ -45,11 +57,13 @@ export class HomeComponent {
             quintaFeira: this.diasSemanaAula[3].value,
             sextaFeira: this.diasSemanaAula[4].value,
             sabado: this.diasSemanaAula[5].value,
+            campus: this.campus,
+            campusAvancado: this.campusAvancado,
             disciplinaSemestral: this.disciplinaSemestral,
             primeiroSemestre: this.primeiroSemestre
         }
-        console.log(this.disciplinaSemestral);
-        
+        console.log(payload);
+
         let options: RequestOptionsArgs = {};
         options.params = payload;
         this.http.get(this.baseUrl + 'api/cronograma', options).subscribe(result => {

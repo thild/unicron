@@ -23,7 +23,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-193@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -38,7 +38,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-204@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -51,8 +51,22 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Esporte
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-207@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20170926
+DTEND;VALUE=DATE:20170927
+SEQUENCE:0
+SUMMARY:DIA NACIONAL DO SURDO
+URL:https://www3.unicentro.br/calendario/event/dia-nacional-do-surdo/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-222@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -67,7 +81,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Administrativo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-224@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -83,7 +97,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Administrativo\,Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-225@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -97,8 +111,22 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-228@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20171017
+DTEND;VALUE=DATE:20171018
+SEQUENCE:0
+SUMMARY:EVENTO CULTURAL CINE KIDS
+URL:https://www3.unicentro.br/calendario/event/evento-cultural-cine-kids/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-229@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -114,7 +142,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Edital\,Transferência Interna
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-233@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:(42) 3621-1366\; siepe2017@unicentro.br\; http://evento.unicentro.b
@@ -146,8 +174,22 @@ X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
 X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-234@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20171023
+DTEND;VALUE=DATE:20171024
+SEQUENCE:0
+SUMMARY:VI FÓRUM DAS LICENCIATURAS
+URL:https://www3.unicentro.br/calendario/event/vi-forum-das-licenciaturas/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-240@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -162,7 +204,7 @@ X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-245@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -176,8 +218,37 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-246@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20171027
+DTEND;VALUE=DATE:20171028
+SEQUENCE:0
+SUMMARY:XII VARAL DE POESIA CRISTINA MOSELE
+URL:https://www3.unicentro.br/calendario/event/xii-varal-de-poesia-cristina
+ -mosele/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Cultura
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-247@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20171028
+DTEND;VALUE=DATE:20171029
+SEQUENCE:0
+SUMMARY:DIA NACIONAL DO LIVRO
+URL:https://www3.unicentro.br/calendario/event/dia-nacional-do-livro/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Cultura\,Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-249@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -195,7 +266,7 @@ X-TAGS;LANGUAGE=pt-BR:Edital\,Inscrições\,Mobilidade
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-255@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -211,7 +282,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-268@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -227,8 +298,38 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-270@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20171201
+DTEND;VALUE=DATE:20171202
+SEQUENCE:0
+SUMMARY:TÉRMINO DOS CURSOS DE LÍNGUAS DO CEL/I\, 2º SEMESTRE
+URL:https://www3.unicentro.br/calendario/event/termino-dos-cursos-de-lingua
+ s-do-celi-2o-semestre/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Línguas Estrangeiras
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-40@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Pitanga
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180127
+DTEND;VALUE=DATE:20180128
+SEQUENCE:0
+SUMMARY:[FERIADO] [Feriado Municipal] Aniversário do Município de Pitanga
+URL:https://www3.unicentro.br/calendario/event/feriado-municipal-aniversari
+ o-do-municipio-de-pitanga/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-346@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -246,7 +347,7 @@ X-TAGS;LANGUAGE=pt-BR:Indígena\,Transferência Externa
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-41@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -261,8 +362,39 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Data limite\,Protocolo\,Transferência Externa
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-42@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180201
+DTEND;VALUE=DATE:20180202
+SEQUENCE:0
+SUMMARY:Início das Atividades da Academia de Musculação da Unicentro – Camp
+ us Irati
+URL:https://www3.unicentro.br/calendario/event/inicio-das-atividades-da-aca
+ demia-de-musculacao-da-unicentro/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Academia
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-347@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180201
+DTEND;VALUE=DATE:20180202
+SEQUENCE:0
+SUMMARY:Início das atividades do Programa Irati Univer-cidade Olímpica
+URL:https://www3.unicentro.br/calendario/event/inicio-das-atividades-do-pro
+ grama-irati-univer-cidade-olimpica/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Esporte
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-44@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -278,7 +410,7 @@ X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-46@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -294,7 +426,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Administrativo\,Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-76@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -309,7 +441,7 @@ X-TAGS;LANGUAGE=pt-BR:Feriado Nacional
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-75@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -325,7 +457,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Administrativo\,Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-69@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -341,7 +473,7 @@ X-TAGS;LANGUAGE=pt-BR:Semestre letivo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-73@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -357,7 +489,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Exames\,Requerimento
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-57@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -373,8 +505,24 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas\,Requerimento
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-65@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180226
+DTEND;VALUE=DATE:20180227
+SEQUENCE:0
+SUMMARY:Início das atividades no Cursos de Línguas\, CEL/Irati\, 1º semestr
+ e
+URL:https://www3.unicentro.br/calendario/event/inscricoes-para-os-cursos-de
+ -linguas-do-celirati-1o-semestre/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:CEL\,Inscrições\,Línguas Estrangeiras
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-355@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -390,7 +538,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-86@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -407,7 +555,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-361@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -423,7 +571,7 @@ X-TAGS;LANGUAGE=pt-BR:Línguas Estrangeiras
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-362@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -438,7 +586,7 @@ X-TAGS;LANGUAGE=pt-BR:Pré-Vestibular
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-363@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -456,7 +604,7 @@ X-TAGS;LANGUAGE=pt-BR:Estágio Pedagógico\,Monitoria\,Tutoria Discente
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-364@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -469,8 +617,29 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-101@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180315
+DTEND;VALUE=DATE:20180316
+RDATE;TZID=America/Sao_Paulo:20180417T000000
+RDATE;TZID=America/Sao_Paulo:20180523T000000
+RDATE;TZID=America/Sao_Paulo:20180618T000000
+RDATE;TZID=America/Sao_Paulo:20180809T000000
+RDATE;TZID=America/Sao_Paulo:20180918T000000
+SEQUENCE:0
+SUMMARY:OFICINA/CURSO DO PROJETO INTEGRAÇÃO CONHECENDO A UNICENTRO/ENTREDOC
+ ENTES
+URL:https://www3.unicentro.br/calendario/event/oficina-curso-do-projeto-int
+ egracao-conhecendo-a-unicentro-entredocentes/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Entredocentes\,Oficina
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-367@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -489,7 +658,7 @@ X-TAGS;LANGUAGE=pt-BR:Edital\,Estágio Pedagógico\,Monitoria\,Tutoria Discen
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-175@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -504,7 +673,7 @@ X-TAGS;LANGUAGE=pt-BR:Línguas Estrangeiras
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-168@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -521,7 +690,7 @@ X-TAGS;LANGUAGE=pt-BR:Estágio Pedagógico\,Monitoria\,Tutoria Discente
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-185@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -538,7 +707,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-374@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -554,7 +723,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-94@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -569,7 +738,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Administrativo\,Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-95@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -584,7 +753,7 @@ X-TAGS;LANGUAGE=pt-BR:Feriado Nacional
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-96@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -599,7 +768,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Administrativo\,Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-181@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -620,7 +789,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Estágio Pedagógico\,Monitoria\,Tutoria D
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-187@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -636,8 +805,23 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Data limite
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-381@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180412
+DTEND;VALUE=DATE:20180413
+SEQUENCE:0
+SUMMARY:ATIVIDADES RELATIVAS AO DIA MUNDIAL DA VOZ
+URL:https://www3.unicentro.br/calendario/event/atividades-relativas-ao-dia-
+ mundial-da-voz/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-102@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -651,8 +835,37 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Feriado Nacional
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-106@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180425
+DTEND;VALUE=DATE:20180426
+SEQUENCE:0
+SUMMARY:DIA MUNDIAL DE CONSCIENTIZAÇÃO SOBRE O RUÍDO
+URL:https://www3.unicentro.br/calendario/event/dia-mundial-de-conscientizac
+ ao-sobre-o-ruido/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180426
+DTEND;VALUE=DATE:20180427
+SEQUENCE:0
+SUMMARY:DIA INTERNACIONAL DA DANÇA
+URL:https://www3.unicentro.br/calendario/event/dia-internacional-da-danca/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-385@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -668,7 +881,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Administrativo\,Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-108@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -683,7 +896,7 @@ X-TAGS;LANGUAGE=pt-BR:Feriado Nacional
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-117@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -700,7 +913,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-128@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -715,7 +928,7 @@ X-TAGS;LANGUAGE=pt-BR:Feriado Nacional
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-391@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -730,7 +943,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Administrativo\,Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-130@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -745,7 +958,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-127@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -760,8 +973,23 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Línguas Estrangeiras
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-114@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180612
+DTEND;VALUE=DATE:20180616
+SEQUENCE:0
+SUMMARY:II CONES – CONGRESSO NACIONAL DE EDUCAÇÃO DOS SURDOS
+URL:https://www3.unicentro.br/calendario/event/ii-cones-congresso-nacional-
+ de-educacao-dos-surdos/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-393@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -777,7 +1005,7 @@ X-TAGS;LANGUAGE=pt-BR:Evento
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-135@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -793,7 +1021,7 @@ X-TAGS;LANGUAGE=pt-BR:Encerramento do semestre
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-137@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -809,7 +1037,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-123@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -826,7 +1054,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-139@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -842,7 +1070,7 @@ X-TAGS;LANGUAGE=pt-BR:Exames
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-140@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -861,7 +1089,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Estágio Pedagógico\,Monitoria
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-141@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -878,7 +1106,7 @@ X-TAGS;LANGUAGE=pt-BR:Encerramento do semestre
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-143@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -895,7 +1123,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Exames
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-399@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -910,7 +1138,7 @@ X-TAGS;LANGUAGE=pt-BR:Pré-Vestibular\,Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-142@www3.unicentro.br/calendario
-DTSTAMP:20180227T181047Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -918,7 +1146,7 @@ DESCRIPTION:
 DTSTART;VALUE=DATE:20180709
 DTEND;VALUE=DATE:20180722
 SEQUENCE:0
-SUMMARY:RECESSO PEDAGÓGICO PARA OS CURSOS ANUAIS
+SUMMARY:[RECESSO] RECESSO PEDAGÓGICO PARA OS CURSOS ANUAIS
 URL:https://www3.unicentro.br/calendario/event/recesso-pedagogico-para-os-c
  ursos-anuais/
 X-COST-TYPE:free
@@ -926,8 +1154,8 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-144@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
-CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Laranjeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz\
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
 DTSTART;VALUE=DATE:20180710
@@ -941,7 +1169,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-159@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -957,8 +1185,23 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Data limite\,Protocolo
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-148@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180715
+DTEND;VALUE=DATE:20180716
+SEQUENCE:0
+SUMMARY:[FERIADO] ANIVERSÁRIO DO MUNICÍPIO DE IRATI
+URL:https://www3.unicentro.br/calendario/event/feriado-aniversario-do-munic
+ ipio-de-irati/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-146@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -973,7 +1216,7 @@ X-TAGS;LANGUAGE=pt-BR:Matrículas\,Renovação
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-151@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -989,7 +1232,7 @@ X-TAGS;LANGUAGE=pt-BR:Semestre letivo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-152@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1007,8 +1250,24 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Estágio Pedagógico\,Monitoria
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-153@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Laranjeiras do Sul\,Pitanga
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180726
+DTEND;VALUE=DATE:20180727
+SEQUENCE:0
+SUMMARY:[FERIADO] DIA DE SANT’ANA\, PADROEIRA DOS MUNICÍPIOS DE LARANJEIRAS
+  DO SUL E PITANGA
+URL:https://www3.unicentro.br/calendario/event/feriado-dia-de-santana-padro
+ eira-dos-municipios-de-laranjeiras-do-sul-e-pitanga/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-155@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1024,7 +1283,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Exames\,Protocolo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-158@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1040,7 +1299,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas\,Protocolo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-145@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1056,7 +1315,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-164@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1071,8 +1330,24 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Exames
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-167@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Laranjeiras do Sul
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180806
+DTEND;VALUE=DATE:20180807
+SEQUENCE:0
+SUMMARY:[FERIADO] DIA DE BOM JESUS DE PIRAPORA\, PADROEIRO DO MUNICÍPIO DE 
+ LARANJEIRAS DO SUL
+URL:https://www3.unicentro.br/calendario/event/feriado-dia-de-bom-jesus-de-
+ pirapora-padroeiro-do-municipio-de-laranjeiras-do-sul/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-166@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1090,8 +1365,55 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Edital\,Estágio Pedagógico\,Monitoria
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-174@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Prudentópolis
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180812
+DTEND;VALUE=DATE:20180813
+SEQUENCE:0
+SUMMARY:[FERIADO] ANIVERSÁRIO DO MUNICÍPIO DE PRUDENTÓPOLIS
+URL:https://www3.unicentro.br/calendario/event/feriado-aniversario-do-munic
+ ipio-de-prudentopolis/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-176@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Pitanga
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180815
+DTEND;VALUE=DATE:20180816
+SEQUENCE:0
+SUMMARY:[FERIADO] DIA DE NOSSA SENHORA DA GLÓRIA\, PADROEIRA DO MUNICÍPIO D
+ E PITANGA
+URL:https://www3.unicentro.br/calendario/event/feriado-dia-de-nossa-senhora
+ -da-gloria-padroeira-do-municipio-de-pitanga/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-178@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Coronel Vivida
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180816
+DTEND;VALUE=DATE:20180817
+SEQUENCE:0
+SUMMARY:[FERIADO] DIA DE SÃO ROQUE\, PADROEIRO DO MUNICÍPIO DE CORONEL VIVI
+ DA
+URL:https://www3.unicentro.br/calendario/event/feriado-dia-de-sao-roque-pad
+ roeiro-do-municipio-de-coronel-vivida/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-405@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1109,7 +1431,7 @@ X-TAGS;LANGUAGE=pt-BR:Estágio Pedagógico\,Monitoria\,Tutoria Discente
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-410@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1125,7 +1447,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-411@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1145,7 +1467,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-414@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1162,7 +1484,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-190@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1177,8 +1499,24 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Feriado Nacional
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-191@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180908
+DTEND;VALUE=DATE:20180909
+SEQUENCE:0
+SUMMARY:[FERIADO] DIA DE NOSSA SENHORA DA LUZ\, PADROEIRA DO MUNICÍPIO DE I
+ RATI
+URL:https://www3.unicentro.br/calendario/event/feriado-dia-de-nossa-senhora
+ -da-luz-padroeira-do-municipio-de-irati/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-192@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1194,7 +1532,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-197@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Pita
  nga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1209,7 +1547,7 @@ X-TAGS;LANGUAGE=pt-BR:Vestibular
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-198@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1224,8 +1562,45 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Recesso Administrativo\,Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-203@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180921
+DTEND;VALUE=DATE:20180924
+RDATE;TZID=America/Sao_Paulo:20181123T000000
+RDATE;TZID=America/Sao_Paulo:20181124T000000
+RDATE;TZID=America/Sao_Paulo:20181125T000000
+RDATE;TZID=America/Sao_Paulo:20181208T000000
+RDATE;TZID=America/Sao_Paulo:20181209T000000
+RDATE;TZID=America/Sao_Paulo:20181210T000000
+SEQUENCE:0
+SUMMARY:XXI CAMPEONATO ABERTO DE VOLEIBOL DE IRATI
+URL:https://www3.unicentro.br/calendario/event/campeonato-aberto-de-voleibo
+ l-de-irati/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Esporte
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-217@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Chopinzinho
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20181004
+DTEND;VALUE=DATE:20181005
+SEQUENCE:0
+SUMMARY:[FERIADO] DIA DE SÃO FRANCISCO DE ASSIS\, PADROEIRO DO MUNICÍPIO DE
+  CHOPINZINHO
+URL:https://www3.unicentro.br/calendario/event/feriado-dia-de-sao-francisco
+ -de-assis-padroeiro-do-municipio-de-chopinzinho/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-220@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1240,7 +1615,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-223@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1256,7 +1631,7 @@ X-TAGS;LANGUAGE=pt-BR:Feriado Nacional
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-231@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1271,7 +1646,7 @@ X-TAGS;LANGUAGE=pt-BR:Evento\,Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-232@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1287,7 +1662,7 @@ X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-208@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1302,7 +1677,7 @@ X-TAGS;LANGUAGE=pt-BR:Línguas Estrangeiras
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-241@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Pita
  nga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1317,8 +1692,23 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-244@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20181026
+DTEND;VALUE=DATE:20181029
+SEQUENCE:0
+SUMMARY:CAMPEONATO ABERTO DE VOLEIBOL DE IRATI
+URL:https://www3.unicentro.br/calendario/event/campeonato-aberto-de-voleibo
+ l-de-irati-2/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Esporte
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-253@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1333,7 +1723,7 @@ X-TAGS;LANGUAGE=pt-BR:Feriado Nacional
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-254@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1348,8 +1738,24 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-436@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Prudentópolis
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20181112
+DTEND;VALUE=DATE:20181113
+SEQUENCE:0
+SUMMARY:[FERIADO] DIA DE SÃO JOSAFAT\, PADROEIRO DO MUNICÍPIO DE PRUDENTÓPO
+ LIS
+URL:https://www3.unicentro.br/calendario/event/feriado-dia-de-sao-josafat-p
+ adroeiro-do-municipio-de-prudentopolis/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-263@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1365,7 +1771,7 @@ X-TAGS;LANGUAGE=pt-BR:Feriado Nacional
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-264@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1380,8 +1786,51 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Recesso Administrativo\,Recesso Pedagógico
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-271@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20181126
+DTEND;VALUE=DATE:20181201
+SEQUENCE:0
+SUMMARY:MOSTRA DE ARTE – 2° SEMESTRE
+URL:https://www3.unicentro.br/calendario/event/mostra-de-arte-2-semestre/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Arte\,Cultura\,Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-267@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Laranjeiras do Sul
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20181130
+DTEND;VALUE=DATE:20181201
+SEQUENCE:0
+SUMMARY:[FERIADO] ANIVERSÁRIO DO MUNICÍPIO DE LARANJEIRAS DO SUL
+URL:https://www3.unicentro.br/calendario/event/feriado-aniversario-do-munic
+ ipio-de-laranjeiras-do-sul/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-444@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20181204
+DTEND;VALUE=DATE:20181221
+SEQUENCE:0
+SUMMARY:MOSTRA CULTURAL\, MOC
+URL:https://www3.unicentro.br/calendario/event/mostra-cultural-moc/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Arte\,Cultura\,Exposição
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-338@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1398,7 +1847,7 @@ X-TAGS;LANGUAGE=pt-BR:Encerramento do semestre
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-339@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1414,7 +1863,7 @@ X-TAGS;LANGUAGE=pt-BR:Encerramento do semestre
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-279@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1429,7 +1878,7 @@ X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-280@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1445,8 +1894,24 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Data limite\,Semestre letivo
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-287@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Chopinzinho\,Coronel Vivida
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20181214
+DTEND;VALUE=DATE:20181215
+SEQUENCE:0
+SUMMARY:[FERIADO] ANIVERSÁRIO DOS MUNICÍPIOS DE CHOPINZINHO E CORONEL VIVID
+ A
+URL:https://www3.unicentro.br/calendario/event/feriado-aniversario-dos-muni
+ cipios-de-chopinzinho-e-coronel-vivida/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Feriado Municipal
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-288@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1466,7 +1931,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Estágio Pedagógico\,Monitoria\,Relatório
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-274@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1482,7 +1947,7 @@ X-TAGS;LANGUAGE=pt-BR:Línguas Estrangeiras
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-446@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1498,7 +1963,7 @@ X-TAGS;LANGUAGE=pt-BR:Recesso Administrativo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-291@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1513,7 +1978,7 @@ X-TAGS;LANGUAGE=pt-BR:Feriado Nacional
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-292@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1528,8 +1993,98 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Recesso Administrativo
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-169@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20170807T190000
+DTEND;TZID=America/Sao_Paulo:20170811T220000
+SEQUENCE:0
+SUMMARY:IX CONIFIL – CONGRESSO INTERNACIONAL DE FILOSOFIA
+URL:https://www3.unicentro.br/calendario/event/ix-conifil-congresso-interna
+ cional-de-filosofia/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-111@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20170818T080000
+DTEND;TZID=America/Sao_Paulo:20170819T170000
+SEQUENCE:0
+SUMMARY:CONGRESSO CONE SUL DE EDUCAÇÃO A DISTÂNCIA 2017
+URL:https://www3.unicentro.br/calendario/event/congresso-cone-sul-de-educac
+ ao-a-distancia-2017/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:EaD\,Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-239@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Chopinzinho\,Laranjeiras do Sul\,Pitanga\,Santa C
+ ruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20170821T080000
+DTEND;TZID=America/Sao_Paulo:20170825T221500
+SEQUENCE:0
+SUMMARY:XXV SEMANA DE ESTUDOS DE PEDAGOGIA
+URL:https://www3.unicentro.br/calendario/event/xxv-semana-de-estudos-de-ped
+ agogia/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-183@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20170821T133000
+DTEND;TZID=America/Sao_Paulo:20170831T220000
+SEQUENCE:0
+SUMMARY:SEMANA DO FOLCLORE
+URL:https://www3.unicentro.br/calendario/event/semana-do-folclore/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-184@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20170825T080000
+DTEND;TZID=America/Sao_Paulo:20170827T180000
+SEQUENCE:0
+SUMMARY:COPA DE VOLEIBOL GENILSON KAMINSKI DE OLIVEIRA
+URL:https://www3.unicentro.br/calendario/event/copa-de-voleibol-genilson-ka
+ minski-de-oliveira/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-194@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Chopinzinho\,Laranjeiras do Sul\,Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20170911T190000
+DTEND;TZID=America/Sao_Paulo:20170915T223000
+SEQUENCE:0
+SUMMARY:SEMANA DE ESTUDOS EM SECRETARIADO EXECUTIVO
+URL:https://www3.unicentro.br/calendario/event/semana-de-estudos-em-secreta
+ riado-executivo/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-195@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -1543,8 +2098,109 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-236@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20170918T190000
+DTEND;TZID=America/Sao_Paulo:20170922T220000
+SEQUENCE:0
+SUMMARY:IX FCÍRCULO
+URL:https://www3.unicentro.br/calendario/event/ix-fcirculo/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-199@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Chopinzinho\,Pitanga\,Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20170919T090000
+DTEND;TZID=America/Sao_Paulo:20170922T220000
+SEQUENCE:0
+SUMMARY:SEMANA DE ESTUDOS EM ADMINISTRAÇÃO
+URL:https://www3.unicentro.br/calendario/event/semana-de-estudos-em-adminis
+ tracao/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-201@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:Clique sobre a imagem para ir ao site de inscrições\n\n 
+DTSTART;TZID=America/Sao_Paulo:20170919T090000
+DTEND;TZID=America/Sao_Paulo:20170922T220000
+SEQUENCE:0
+SUMMARY:XXIV CICLO DE ESTUDOS EM CIÊNCIAS CONTÁBEIS
+URL:https://www3.unicentro.br/calendario/event/xxiv-ciclo-de-estudos-em-cie
+ ncias-contabeis/
+X-COST-TYPE:free
+X-WP-IMAGES-URL:thumbnail\;https://www3.unicentro.br/wp-content/uploads/201
+ 7/08/panfleto-programacao-01.jpg\;828\;1182\,medium\;https://www3.unicentr
+ o.br/wp-content/uploads/2017/08/panfleto-programacao-01.jpg\;828\;1182\,la
+ rge\;https://www3.unicentro.br/wp-content/uploads/2017/08/panfleto-program
+ acao-01.jpg\;828\;1182\,full\;https://www3.unicentro.br/wp-content/uploads
+ /2017/08/panfleto-programacao-01.jpg\;828\;1182
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p style='text-a
+ lign: center'><strong>Clique sobre a imagem para ir ao site de inscrições<
+ /strong></p>\n<p style='text-align: center'><a href='https://evento.unicen
+ tro.br/site/cec/2017/1'><img class='alignnone' src='https://www3.unicentro
+ .br/wp-content/uploads/2017/08/panfleto-programacao-01.jpg' alt='' width='
+ 828' height='1182' /></a></p>\n<p> </p>\n</BODY></HTML>
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-200@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Pitanga\,Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20170919T190000
+DTEND;TZID=America/Sao_Paulo:20170922T220000
+SEQUENCE:0
+SUMMARY:XVII SEMANA DE ESTUDOS EM CIÊNCIAS ECONÔMICAS
+URL:https://www3.unicentro.br/calendario/event/xvii-semana-de-estudos-em-ci
+ encias-economicas/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-202@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20170920T080000
+DTEND;TZID=America/Sao_Paulo:20170922T220000
+SEQUENCE:0
+SUMMARY:III COLÓQUIO DE ENSINO DE HISTÓRIA
+URL:https://www3.unicentro.br/calendario/event/iii-coloquio-de-ensino-de-hi
+ storia/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-206@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20170925T190000
+DTEND;TZID=America/Sao_Paulo:20170929T230000
+SEQUENCE:0
+SUMMARY:XIII SEMANA DE GEOGRAFIA
+URL:https://www3.unicentro.br/calendario/event/xiii-semana-de-geografia/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-213@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -1560,8 +2216,97 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Oficina
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-219@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171006T080000
+DTEND;TZID=America/Sao_Paulo:20171007T120000
+SEQUENCE:0
+SUMMARY:FEIRA DA CIDADANIA
+URL:https://www3.unicentro.br/calendario/event/feira-da-cidadania/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-227@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati\,Prudentópolis
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171016T190000
+DTEND;TZID=America/Sao_Paulo:20171020T220000
+SEQUENCE:0
+SUMMARY:XIV SEMANA DE ESTUDOS EM ADMINISTRAÇÃO
+URL:https://www3.unicentro.br/calendario/event/xiv-semana-de-estudos-em-adm
+ inistracao/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-230@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171023T080000
+DTEND;TZID=America/Sao_Paulo:20171027T170000
+SEQUENCE:0
+SUMMARY:CONGRESSO: ÍMPARES DA COMUNICAÇÃO – ANO 2 (IC2)
+URL:https://www3.unicentro.br/calendario/event/congresso-impares-da-comunic
+ acao-ano-2-ic2/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-238@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171023T080000
+DTEND;TZID=America/Sao_Paulo:20171027T220000
+SEQUENCE:0
+SUMMARY:XXV SEMANA DE ESTUDOS DE HISTÓRIA
+URL:https://www3.unicentro.br/calendario/event/xxv-semana-de-estudos-de-his
+ toria/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-242@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati\,Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171025T080000
+DTEND;TZID=America/Sao_Paulo:20171026T170000
+SEQUENCE:0
+SUMMARY:ENCONTRO INSTITUCIONAL PIBID
+URL:https://www3.unicentro.br/calendario/event/encontro-institucional-pibid
+ /
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:eve\,Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-252@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171101T080000
+DTEND;TZID=America/Sao_Paulo:20171101T180000
+SEQUENCE:0
+SUMMARY:MOSTRA DE ESTÁGIOS EM PSICOLOGIA
+URL:https://www3.unicentro.br/calendario/event/mostra-de-estagios-em-psicol
+ ogia/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Estágio\,Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-256@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -1575,8 +2320,97 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-258@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171106T190000
+DTEND;TZID=America/Sao_Paulo:20171106T223000
+SEQUENCE:0
+SUMMARY:VIII SEPED – SEMANA DE ESTUDOS DE PEDAGOGIA DO CAMPUS DE IRATI
+URL:https://www3.unicentro.br/calendario/event/viii-seped-semana-de-estudos
+ -de-pedagogia-do-campus-de-irati/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-261@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171110T190000
+DTEND;TZID=America/Sao_Paulo:20171110T220000
+SEQUENCE:0
+SUMMARY:FÓRUM DE ESTÁGIO EM SERVIÇO SOCIAL
+URL:https://www3.unicentro.br/calendario/event/forum-de-estagio-em-servico-
+ social-2/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Estágio\,Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-265@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171121T190000
+DTEND;TZID=America/Sao_Paulo:20171124T223000
+SEQUENCE:0
+SUMMARY:XII SEMANA DE HISTÓRIA DO CAMPUS DE IRATI
+URL:https://www3.unicentro.br/calendario/event/xii-semana-de-historia-do-ca
+ mpus-de-irati/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-266@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171124T080000
+DTEND;TZID=America/Sao_Paulo:20171126T120000
+SEQUENCE:0
+SUMMARY:CAMPEONATO ABERTO DE VOLEIBOL DE IRATI
+URL:https://www3.unicentro.br/calendario/event/campeonato-aberto-de-voleibo
+ l-de-irati-3/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Esporte\,Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-269@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171201T080000
+DTEND;TZID=America/Sao_Paulo:20171203T120000
+SEQUENCE:0
+SUMMARY:CAMPEONATO ABERTO DE VOLEIBOL DE IRATI
+URL:https://www3.unicentro.br/calendario/event/campeonato-aberto-de-voleibo
+ l-de-irati-4/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Esporte\,Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-273@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171204T080000
+DTEND;TZID=America/Sao_Paulo:20171208T220000
+SEQUENCE:0
+SUMMARY:FEIRA DE ARTESANATO
+URL:https://www3.unicentro.br/calendario/event/feira-de-artesanato-2/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Artesanato\,Feira
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-275@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -1590,8 +2424,54 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Esporte\,Evento
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-276@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171208T080000
+DTEND;TZID=America/Sao_Paulo:20171210T120000
+SEQUENCE:0
+SUMMARY:CAMPEONATO ABERTO DE VOLEIBOL DE IRATI
+URL:https://www3.unicentro.br/calendario/event/campeonato-aberto-de-voleibo
+ l-de-irati-5/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Esporte
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-282@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171211T133000
+DTEND;TZID=America/Sao_Paulo:20171213T180000
+SEQUENCE:0
+SUMMARY:III SEMINÁRIO LABELL: DISCURSO\, MEMÓRIA\, HISTÓRIA
+URL:https://www3.unicentro.br/calendario/event/iii-seminario-labell-discurs
+ o-memoria-historia/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-283@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20171211T133000
+DTEND;TZID=America/Sao_Paulo:20171213T180000
+SEQUENCE:0
+SUMMARY:VI SEDAN-SEMINÁRIO DE DISSERTAÇÕES EM ANDAMENTO – MESTRADO EM LETRA
+ S
+URL:https://www3.unicentro.br/calendario/event/vi-sedan-seminario-de-disser
+ tacoes-em-andamento-mestrado-em-letras/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-284@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1610,7 +2490,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-38@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1625,7 +2505,7 @@ X-TAGS;LANGUAGE=pt-BR:Inscrições\,Línguas
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-344@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1640,8 +2520,25 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Matrículas\,PAC\,Vestibular
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-345@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Chopinzinho\,Coronel Vivida\,Pitanga\,Prudentópol
+ is
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180124T080000
+DTEND;TZID=America/Sao_Paulo:20180124T170000
+SEQUENCE:0
+SUMMARY:Efetivação de matrícula dos candidatos aprovados no Vestibular 2018
+  e no PAC III/2015
+URL:https://www3.unicentro.br/calendario/event/efetivacao-de-matricula-dos-
+ candidatos-aprovados-no-vestibular-2018-e-no-pac-iii-2015-2/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Matrículas\,PAC\,Vestibular
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-45@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -1655,8 +2552,39 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Agrárias e Ambientais\,Formatura
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-68@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Pitanga
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180203T180000
+DTEND;TZID=America/Sao_Paulo:20180203T220000
+SEQUENCE:0
+SUMMARY:[Formatura] Colação de grau dos formandos de 2017 – Administração/P
+ itanga
+URL:https://www3.unicentro.br/calendario/event/formatura-colacao-de-grau-do
+ s-formandos-de-2017-administracaopitanga/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Formatura
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-74@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Chopinzinho
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180203T180000
+DTEND;TZID=America/Sao_Paulo:20180203T220000
+SEQUENCE:0
+SUMMARY:[Formatura] Colação de grau dos formandos de 2017 – Chopinzinho
+URL:https://www3.unicentro.br/calendario/event/formatura-colacao-de-grau-do
+ s-formandos-de-2017-chopinzinho/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Formatura
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-62@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1671,8 +2599,56 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Matrículas\,Renovação
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-349@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180207T180000
+DTEND;TZID=America/Sao_Paulo:20180207T220000
+SEQUENCE:0
+SUMMARY:[Formatura] Colação de Grau em separado – Formandos do Campus de Ir
+ ati
+URL:https://www3.unicentro.br/calendario/event/formatura-colacao-de-grau-em
+ -separado-formandos-do-campus-de-irati/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Formatura
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-67@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Prudentópolis
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180208T180000
+DTEND;TZID=America/Sao_Paulo:20180208T220000
+SEQUENCE:0
+SUMMARY:[Formatura] Colação de grau dos formandos de 2017 – Administração/P
+ rudentópolis
+URL:https://www3.unicentro.br/calendario/event/formatura-colacao-de-grau-do
+ s-formandos-de-2017-administracaoprudentopolis/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Formatura
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-47@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Laranjeiras do Sul
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180210T180000
+DTEND;TZID=America/Sao_Paulo:20180210T210000
+SEQUENCE:0
+SUMMARY:[Formatura] Colação de Grau dos Formandos de 2017 – Laranjeiras do 
+ Sul
+URL:https://www3.unicentro.br/calendario/event/formatura-colacao-de-grau-do
+ s-formandos-de-2017-laranjeiras-do-sul/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Formatura
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-350@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1689,7 +2665,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Protocolo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-64@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1703,8 +2679,39 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Exames
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-63@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Coronel Vivida
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180217T180000
+DTEND;TZID=America/Sao_Paulo:20180217T220000
+SEQUENCE:0
+SUMMARY:[Formatura] Colação de grau dos formandos de 2017 – História/Cel. V
+ ivida
+URL:https://www3.unicentro.br/calendario/event/formatura-colacao-de-grau-do
+ s-formandos-de-2016-historiacel-vivida/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Formatura
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-351@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180219T080000
+DTEND;TZID=America/Sao_Paulo:20180219T170000
+SEQUENCE:0
+SUMMARY:Matrículas/Rematrículas Unati
+URL:https://www3.unicentro.br/calendario/event/matriculas-rematriculas-unat
+ i/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Matrículas\,Unati
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-352@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -1719,8 +2726,24 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Formatura
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-353@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180222T190000
+DTEND;TZID=America/Sao_Paulo:20180222T220000
+SEQUENCE:0
+SUMMARY:[Formatura] Colação de grau em separado – Formandos do Campus Santa
+  Cruz
+URL:https://www3.unicentro.br/calendario/event/formatura-colacao-de-grau-em
+ -separado-formandos-do-campus-santa-cruz/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Formatura
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-359@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1736,7 +2759,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas\,Protocolo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-360@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1752,8 +2775,39 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Data limite\,Protocolo
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-71@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180228T180000
+DTEND;TZID=America/Sao_Paulo:20180228T220000
+SEQUENCE:0
+SUMMARY:[Formatura] Colação de grau dos formandos de 2017 – Sehla/Santa Cru
+ z
+URL:https://www3.unicentro.br/calendario/event/formatura-colacao-de-grau-do
+ s-formandos-de-2017-sehlasanta-cruz/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Formatura\,Humanas\,Sehla
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-70@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180301T180000
+DTEND;TZID=America/Sao_Paulo:20180301T220000
+SEQUENCE:0
+SUMMARY:[Formatura] Colação de grau dos formandos de 2017 – Sesa/Santa Cruz
+URL:https://www3.unicentro.br/calendario/event/formatura-colacao-de-grau-do
+ s-formandos-de-2017-sesasanta-cruz/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Formatura\,Sesa\,Sociais Aplicadas
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-84@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1771,8 +2825,37 @@ X-TAGS;LANGUAGE=pt-BR:Edital\,Estágio Pedagógico\,Monitoria\,Tutoria Discen
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-354@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180305T130000
+DTEND;TZID=America/Sao_Paulo:20180305T170000
+SEQUENCE:0
+SUMMARY:Aula Inaugural Unati
+URL:https://www3.unicentro.br/calendario/event/aula-inaugural-unati/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Aula Inaugural\,Unati
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-357@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180306T130000
+DTEND;TZID=America/Sao_Paulo:20180306T170000
+SEQUENCE:0
+SUMMARY:Início das atividades da Universidade Aberta da Terceira Idade\, Ua
+ ti
+URL:https://www3.unicentro.br/calendario/event/aula-inaugural-uati/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Aula Inaugural\,Uati
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-358@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -1788,7 +2871,7 @@ X-TAGS;LANGUAGE=pt-BR:Evento\,Música
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-56@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -1803,7 +2886,7 @@ X-TAGS;LANGUAGE=pt-BR:Exatas\,Formatura\,Seet
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-54@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -1817,8 +2900,23 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Formatura\,Saúde\,SES
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-83@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180312T080000
+SEQUENCE:0
+SUMMARY:Início das Oficinas Culturais
+URL:https://www3.unicentro.br/calendario/event/inicio-das-oficinas-culturai
+ s/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Oficinas Culturais
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-366@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -1833,8 +2931,86 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Exames
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-365@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180315T180000
+DTEND;TZID=America/Sao_Paulo:20180315T220000
+SEQUENCE:0
+SUMMARY:[Formatura] Colação de grau dos formandos de 2017 do Seaa/I
+URL:https://www3.unicentro.br/calendario/event/formatura-colacao-de-grau-do
+ s-formandos-de-2017-do-seaa-i/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Formatura\,Seaa
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-368@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180319T080000
+DTEND;TZID=America/Sao_Paulo:20180323T180000
+SEQUENCE:0
+SUMMARY:SEMANA DE ATENÇÃO À DISFAGIA
+URL:https://www3.unicentro.br/calendario/event/semana-de-atencao-a-disfagia
+ /
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-369@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180320T180000
+DTEND;TZID=America/Sao_Paulo:20180320T220000
+SEQUENCE:0
+SUMMARY:[FORMATURA] COLAÇÃO DE GRAU DOS FORMANDOS DE 2017 DO SETOR DE CIÊNC
+ IAS HUMANAS\, LETRAS E ARTES\, SEHLA/I
+URL:https://www3.unicentro.br/calendario/event/formatura-colacao-de-grau-do
+ s-formandos-de-2017-do-setor-de-ciencias-humanas-letras-e-artes-sehla-i/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Formatura\,Sehla
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-370@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180321T180000
+DTEND;TZID=America/Sao_Paulo:20180321T220000
+SEQUENCE:0
+SUMMARY:[FORMATURA] COLAÇÃO DE GRAU DOS FORMANDOS DE 2017 DO SETOR DE CIÊNC
+ IAS SOCIAIS E APLICADAS\, SESA/I
+URL:https://www3.unicentro.br/calendario/event/formatura-colacao-de-grau-do
+ s-formandos-de-2017-do-setor-de-ciencias-sociais-e-aplicadas-sesa-i/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Formatura\,Sesa
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-371@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180322T180000
+DTEND;TZID=America/Sao_Paulo:20180322T220000
+SEQUENCE:0
+SUMMARY:[FORMATURA] COLAÇÃO DE GRAU DOS FORMANDOS DE 2017 DO SETOR DE CIÊNC
+ IAS DA SAÚDE\, SES/I
+URL:https://www3.unicentro.br/calendario/event/formatura-colacao-de-grau-do
+ s-formandos-de-2017-do-setor-de-ciencias-da-saude-ses-i/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Formatura\,SES
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-188@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1850,8 +3026,39 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Data limite
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-375@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180324T160000
+DTEND;TZID=America/Sao_Paulo:20180324T200000
+RRULE:FREQ=MONTHLY;UNTIL=20181027T235959Z;BYDAY=-1SA
+SEQUENCE:0
+SUMMARY:SÁBADOS LITERÁRIOS
+URL:https://www3.unicentro.br/calendario/event/sabados-literarios/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-376@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180326T080000
+DTEND;TZID=America/Sao_Paulo:20180327T180000
+SEQUENCE:0
+SUMMARY:INTERNATIONAL CONFERENCE: DEVELOPMENT FOR ALL\, DEVELOPMENT FOR WHO
+ M?
+URL:https://www3.unicentro.br/calendario/event/international-conference-dev
+ elopment-for-all-development-for-whom/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-378@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1868,8 +3075,82 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Capacitação\,Data limite\,Protocolo
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-377@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati\,Prudentópolis
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180328T190000
+DTEND;TZID=America/Sao_Paulo:20180328T220000
+SEQUENCE:0
+SUMMARY:AULA INAUGURAL DO CURSO DE CIÊNCIAS CONTÁBEIS
+URL:https://www3.unicentro.br/calendario/event/aula-inaugural-do-curso-de-c
+ iencias-contabeis/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Aula Inaugural\,Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-379@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180404T080000
+DTEND;TZID=America/Sao_Paulo:20180404T180000
+SEQUENCE:0
+SUMMARY:I SEMINÁRIO REGIONAL DE PRÁTICAS RESTAURATIVAS
+URL:https://www3.unicentro.br/calendario/event/i-seminario-regional-de-prat
+ icas-restaurativas/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-380@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180410T080000
+DTEND;TZID=America/Sao_Paulo:20180413T170000
+SEQUENCE:0
+SUMMARY:SEMANA DE ESTUDOS DE COMUNICAÇÃO
+URL:https://www3.unicentro.br/calendario/event/semana-de-estudos-de-comunic
+ acao/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-93@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180411T080000
+DTEND;TZID=America/Sao_Paulo:20180411T120000
+SEQUENCE:0
+SUMMARY:AULA INAUGURAL DO CURSO DE TURISMO
+URL:https://www3.unicentro.br/calendario/event/aula-inaugural-do-curso-de-t
+ urismo/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Aula Inaugural
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-98@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180416T080000
+DTEND;TZID=America/Sao_Paulo:20180420T180000
+SEQUENCE:0
+SUMMARY:SEMANA NACIONAL DA VOZ
+URL:https://www3.unicentro.br/calendario/event/semana-da-voz/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-99@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1884,8 +3165,38 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento\,Inovação Tecnológica\,Pesquisa\,Pós-Graduação
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-382@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Prudentópolis
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180418T080000
+DTEND;TZID=America/Sao_Paulo:20180418T120000
+SEQUENCE:0
+SUMMARY:AULA INAUGURAL DO CURSO DE TURISMO
+URL:https://www3.unicentro.br/calendario/event/aula-inaugural-do-curso-de-t
+ urismo-2/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Aula Inaugural
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-131@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180418T180000
+DTEND;TZID=America/Sao_Paulo:20180418T200000
+SEQUENCE:0
+SUMMARY:QUINTA NOBRE – APRESENTAÇÕES MUSICAIS TEMÁTICAS.
+URL:https://www3.unicentro.br/calendario/event/quinta-nobre-apresentacoes-m
+ usicais-tematicas/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-384@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -1899,8 +3210,23 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-216@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180425T190000
+DTEND;TZID=America/Sao_Paulo:20180427T220000
+SEQUENCE:0
+SUMMARY:III SEL – SIMPÓSIO DE ESTUDOS EM LETRAS
+URL:https://www3.unicentro.br/calendario/event/iii-sel-simposio-de-estudos-
+ em-letras/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-386@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1914,8 +3240,82 @@ URL:https://www3.unicentro.br/calendario/event/inscricao-para-programas-ins
 X-COST-TYPE:free
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-218@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180503T080000
+DTEND;TZID=America/Sao_Paulo:20180503T170000
+RDATE;TZID=America/Sao_Paulo:20181004T080000
+SEQUENCE:0
+SUMMARY:EXAME DE PROFICIÊNCIA EM LÍNGUA INGLESA E LÍNGUA ESPANHOLA
+URL:https://www3.unicentro.br/calendario/event/realizacao-do-exame-de-profi
+ ciencia-em-lingua-inglesa-e-lingua-espanhola-2/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Exames\,Proficiência
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-387@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180503T080000
+DTEND;TZID=America/Sao_Paulo:20180503T220000
+SEQUENCE:0
+SUMMARY:V SIMPÓSIO DE EDUCAÇÃO INFANTIL DA UNICENTRO\, SEDIUNI
+URL:https://www3.unicentro.br/calendario/event/v-simposio-de-educacao-infan
+ til-da-unicentro-sediuni/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180508T080000
+DTEND;TZID=America/Sao_Paulo:20180511T220000
+SEQUENCE:0
+SUMMARY:EXPOSIÇÃO – FEIRA DO ARTESANATO
+URL:https://www3.unicentro.br/calendario/event/feira-do-artesanato/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Artesanato\,Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-113@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180514T190000
+DTEND;TZID=America/Sao_Paulo:20180516T220000
+SEQUENCE:0
+SUMMARY:JORNADA DE ESTUDOS EM SERVIÇO SOCIAL
+URL:https://www3.unicentro.br/calendario/event/jornada-de-estudos-em-servic
+ o-social/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-389@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180515T165000
+DTEND;TZID=America/Sao_Paulo:20180517T175000
+SEQUENCE:0
+SUMMARY:ENCONTRO MUSICAL
+URL:https://www3.unicentro.br/calendario/event/encontro-musical/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-237@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -1929,7 +3329,7 @@ X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-392@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -1943,8 +3343,37 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-394@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180613T080000
+DTEND;TZID=America/Sao_Paulo:20180615T180000
+SEQUENCE:0
+SUMMARY:V SEMINÁRIO PARANAENSE DE FONOAUDIOLOGIA
+URL:https://www3.unicentro.br/calendario/event/v-seminario-paranaense-de-fo
+ noaudiologia/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-126@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180613T190000
+DTEND;TZID=America/Sao_Paulo:20180613T210000
+SEQUENCE:0
+SUMMARY:VII BLOOMSDAY
+URL:https://www3.unicentro.br/calendario/event/vii-bloomsday/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-395@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -1960,7 +3389,7 @@ X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-396@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1974,8 +3403,51 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Inscrições\,Línguas Estrangeiras
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-92@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180621T190000
+DTEND;TZID=America/Sao_Paulo:20180622T223000
+SEQUENCE:0
+SUMMARY:FÓRUM DE ESTÁGIO SUPERVISIONADO EM SERVIÇO SOCIAL – 1º SEMESTRE
+URL:https://www3.unicentro.br/calendario/event/forum-de-estagio-em-servico-
+ social/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Estágio\,Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-136@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180625T080000
+DTEND;TZID=America/Sao_Paulo:20180629T110000
+SEQUENCE:0
+SUMMARY:MOSTRA DE ARTE – 1º semestre
+URL:https://www3.unicentro.br/calendario/event/mostra-de-arte-1o-semestre/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Exposição
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-397@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180629T170000
+DTEND;TZID=America/Sao_Paulo:20180629T220000
+SEQUENCE:0
+SUMMARY:FESTA JUNINA UNATI
+URL:https://www3.unicentro.br/calendario/event/festa-junina-unati/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Unati
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-400@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -1992,7 +3464,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Protocolo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-401@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -2006,8 +3478,23 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Pré-Vestibular
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-172@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180801T080000
+DTEND;TZID=America/Sao_Paulo:20180801T220000
+SEQUENCE:0
+SUMMARY:DIA MUNDIAL EM COMEMORAÇÃO AO ALEITAMENTO MATERNO
+URL:https://www3.unicentro.br/calendario/event/dia-mundial-em-comemoracao-a
+ o-aleitamento-materno/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-170@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -2023,7 +3510,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-171@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -2040,7 +3527,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-402@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -2056,7 +3543,7 @@ X-TAGS;LANGUAGE=pt-BR:Línguas Estrangeiras
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-403@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -2074,8 +3561,28 @@ X-TAGS;LANGUAGE=pt-BR:Edital\,Estágio Pedagógico\,Monitoria
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-177@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Chopinzinho\,Coronel Vivida\,Laranjeiras do Sul\,
+ Pitanga\,Prudentópolis
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180815T080000
+DTEND;TZID=America/Sao_Paulo:20180815T223000
+SEQUENCE:0
+SUMMARY:DATA LIMITE PARA ABERTURA DE PROTOCOLO\, POR PARTE DAS PREFEITURAS 
+ MUNICIPAIS\, DE SOLICITAÇÃO DE OFERTA DE CURSO DE GRADUAÇÃO NOS CAMPI AVAN
+ ÇADOS\, QUE NECESSITE ATUALIZAR A SITUAÇÃO JURÍDICA\, PARA INÍCIO EM 2020
+URL:https://www3.unicentro.br/calendario/event/data-limite-para-abertura-de
+ -protocolo-por-parte-das-prefeituras-municipais-de-solicitacao-de-oferta-d
+ e-curso-de-graduacao-nos-campi-avancados-que-necessite-atualizar-a-situaca
+ o-juridica-para-inic/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Data limite\,Prefeitura
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-173@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -2089,8 +3596,56 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Exames
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-404@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180817T170000
+DTEND;TZID=America/Sao_Paulo:20180819T190000
+SEQUENCE:0
+SUMMARY:III JOGOS INTERCALOUROS – III JIC’S
+URL:https://www3.unicentro.br/calendario/event/iii-jogos-intercalouros-iii-
+ jics/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Esporte
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-407@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180818T080000
+DTEND;TZID=America/Sao_Paulo:20180821T180000
+SEQUENCE:0
+SUMMARY:II ENCONTRO NACIONAL DE AQUISIÇÃO\, PATOLOGIAS E CLÍNICA DE LINGUAG
+ EM\, ENAP-CL E I ENCONTRO INTERNACIONAL DE AQUISIÇÃO\, PATOLOGIAS E CLÍNIC
+ A DE LINGUAGEM\, EIAP-CL
+URL:https://www3.unicentro.br/calendario/event/ii-encontro-nacional-de-aqui
+ sicao-patologias-e-clinica-de-linguagem-enap-cl-e-i-encontro-internacional
+ -de-aquisicao-patologias-e-clinica-de-linguagem-eiap-cl/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-408@www3.unicentro.br/calendario
+DTSTAMP:20180312T011007Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180820T080000
+DTEND;TZID=America/Sao_Paulo:20180824T170000
+SEQUENCE:0
+SUMMARY:V CICLO DE PALESTRAS SOBRE ACESSIBILIDADE E INCLUSÃO
+URL:https://www3.unicentro.br/calendario/event/v-ciclo-de-palestras-sobre-a
+ cessibilidade-e-inclusao/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-182@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011007Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -2104,8 +3659,65 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-409@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180823T080000
+DTEND;TZID=America/Sao_Paulo:20180825T180000
+SEQUENCE:0
+SUMMARY:XIII JORNADA ACADÊMICA DO CURSO DE TURISMO\, FITUR
+URL:https://www3.unicentro.br/calendario/event/xiii-jornada-academica-do-cu
+ rso-de-turismo-fitur/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-412@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180824T080000
+DTEND;TZID=America/Sao_Paulo:20180826T170000
+RDATE;TZID=America/Sao_Paulo:20181026T080000
+RDATE;TZID=America/Sao_Paulo:20181027T080000
+RDATE;TZID=America/Sao_Paulo:20181028T080000
+RDATE;TZID=America/Sao_Paulo:20181123T080000
+RDATE;TZID=America/Sao_Paulo:20181124T080000
+RDATE;TZID=America/Sao_Paulo:20181125T080000
+RDATE;TZID=America/Sao_Paulo:20181201T080000
+RDATE;TZID=America/Sao_Paulo:20181202T080000
+RDATE;TZID=America/Sao_Paulo:20181203T080000
+RDATE;TZID=America/Sao_Paulo:20181208T080000
+RDATE;TZID=America/Sao_Paulo:20181209T080000
+RDATE;TZID=America/Sao_Paulo:20181210T080000
+SEQUENCE:0
+SUMMARY:XIII COPA DE VOLEIBOL GENILSON KAMINSKI DE OLIVEIRA
+URL:https://www3.unicentro.br/calendario/event/xiii-copa-de-voleibol-genils
+ on-kaminski-de-oliveira/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Esporte
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-413@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180828T080000
+DTEND;TZID=America/Sao_Paulo:20180828T173000
+SEQUENCE:0
+SUMMARY:MOSTRA DE PRODUÇÕES PUBLICITÁRIAS
+URL:https://www3.unicentro.br/calendario/event/mostra-de-producoes-publicit
+ arias/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Exposição
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-290@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -2122,7 +3734,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-186@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:
@@ -2139,8 +3751,24 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas\,Protocolo
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-417@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Chopinzinho\,Laranjeiras do Sul\,Pitanga\,Santa C
+ ruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180903T083000
+DTEND;TZID=America/Sao_Paulo:20180906T220000
+SEQUENCE:0
+SUMMARY:XXVI SEMANA DE ESTUDOS DE PEDAGOGIA
+URL:https://www3.unicentro.br/calendario/event/xxvi-semana-de-estudos-de-pe
+ dagogia/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-416@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -2154,8 +3782,97 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-419@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati\,Prudentópolis
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180910T080000
+DTEND;TZID=America/Sao_Paulo:20180914T220000
+SEQUENCE:0
+SUMMARY:XV SEMANA DE ESTUDOS EM ADMINISTRAÇÃO
+URL:https://www3.unicentro.br/calendario/event/xv-semana-de-estudos-em-admi
+ nistracao/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-418@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180910T133000
+DTEND;TZID=America/Sao_Paulo:20180914T183000
+SEQUENCE:0
+SUMMARY:XIII SIMPÓSIO DE ARTE-EDUCAÇÃO
+URL:https://www3.unicentro.br/calendario/event/xiii-simposio-de-arte-educac
+ ao/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-420@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180912T080000
+DTEND;TZID=America/Sao_Paulo:20180914T180000
+SEQUENCE:0
+SUMMARY:IV CONGRESSO INTERNACIONAL DE SAÚDE MENTAL
+URL:https://www3.unicentro.br/calendario/event/iv-congresso-internacional-d
+ e-saude-mental/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-422@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180918T080000
+DTEND;TZID=America/Sao_Paulo:20180921T180000
+SEQUENCE:0
+SUMMARY:XII SEMANA DE ESTUDOS DE ENGENHARIA AMBIENTAL\, SEEAMB
+URL:https://www3.unicentro.br/calendario/event/xii-semana-de-estudos-de-eng
+ enharia-ambiental-seeamb/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-423@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180918T080000
+DTEND;TZID=America/Sao_Paulo:20180922T171500
+SEQUENCE:0
+SUMMARY:XIV SEMANA DE GEOGRAFIA
+URL:https://www3.unicentro.br/calendario/event/xiv-semana-de-geografia/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-421@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Chopinzinho\,Pitanga\,Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180918T180000
+DTEND;TZID=America/Sao_Paulo:20180921T220000
+SEQUENCE:0
+SUMMARY:VII CONGRESSO DE CIÊNCIAS SOCIAIS APLICADAS\, CONCISA
+URL:https://www3.unicentro.br/calendario/event/vii-congresso-de-ciencias-so
+ ciais-aplicadas-concisa/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-425@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -2169,8 +3886,82 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-424@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180920T180000
+DTEND;TZID=America/Sao_Paulo:20180925T220000
+SEQUENCE:0
+SUMMARY:V JORNADA PET DE HISTÓRIA
+URL:https://www3.unicentro.br/calendario/event/v-jornada-pet-de-historia/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-426@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180920T180000
+DTEND;TZID=America/Sao_Paulo:20180924T220000
+SEQUENCE:0
+SUMMARY:XXV SEMANA DE ESTUDOS DE HISTÓRIA
+URL:https://www3.unicentro.br/calendario/event/xxv-semana-de-estudos-de-his
+ toria-2/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-122@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180924T080000
+DTEND;TZID=America/Sao_Paulo:20180928T170000
+SEQUENCE:0
+SUMMARY:V SEMINÁRIO DE ATUALIZAÇÃO FLORESTAL
+URL:https://www3.unicentro.br/calendario/event/v-seminario-de-atualizacao-f
+ lorestal/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-257@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Coronel Vivida
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180924T190000
+DTEND;TZID=America/Sao_Paulo:20180928T223000
+SEQUENCE:0
+SUMMARY:VI SEMANA DE ESTUDOS DE HISTÓRIA DE CORONEL VIVIDA
+URL:https://www3.unicentro.br/calendario/event/vi-semana-de-estudos-de-hist
+ oria-de-coronel-vivida/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-209@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20180926T190000
+DTEND;TZID=America/Sao_Paulo:20180928T230000
+SEQUENCE:0
+SUMMARY:VIII FESTIVAL UNIVERSITÁRIO DA CANÇÃO\, FUCA
+URL:https://www3.unicentro.br/calendario/event/viii-festival-universitario-
+ da-cancao-fuca/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-210@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -2186,7 +3977,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-211@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -2201,8 +3992,53 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Data limite\,Protocolo
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-214@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181001T190000
+DTEND;TZID=America/Sao_Paulo:20181005T220000
+SEQUENCE:0
+SUMMARY:XVII SEMANA DE ESTUDOS DE FILOSOFIA E VIII SEMANA DE ESTUDOS PET – 
+ FILOSOFIA
+URL:https://www3.unicentro.br/calendario/event/xvii-semana-de-estudos-de-fi
+ losofia-e-viii-semana-de-estudos-pet-filosofia/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-215@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181001T190000
+DTEND;TZID=America/Sao_Paulo:20181005T220000
+SEQUENCE:0
+SUMMARY:XXVI IRACONT – SEMANA DE ESTUDOS DE CONTABILIDADE
+URL:https://www3.unicentro.br/calendario/event/xxvi-iracont-semana-de-estud
+ os-de-contabilidade/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-427@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181003T133000
+DTEND;TZID=America/Sao_Paulo:20181003T173000
+SEQUENCE:0
+SUMMARY:10º ENCONTRO DE IDOSOS
+URL:https://www3.unicentro.br/calendario/event/10o-encontro-de-idosos/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-226@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -2218,8 +4054,23 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Data limite\,Matrículas\,Protocolo
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-260@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181015T190000
+DTEND;TZID=America/Sao_Paulo:20181019T223000
+SEQUENCE:0
+SUMMARY:XII SEMANA DE ESTUDOS DE MATEMÁTICA
+URL:https://www3.unicentro.br/calendario/event/xii-semana-de-estudos-de-mat
+ ematica/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-428@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -2233,8 +4084,38 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-235@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181022T080000
+DTEND;TZID=America/Sao_Paulo:20181023T220000
+SEQUENCE:0
+SUMMARY:VII SEMINÁRIO DOS GRUPOS PET
+URL:https://www3.unicentro.br/calendario/event/vii-seminario-dos-grupos-pet
+ /
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-429@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181024T190000
+DTEND;TZID=America/Sao_Paulo:20181026T220000
+SEQUENCE:0
+SUMMARY:FÓRUM DE ESTÁGIO SUPERVISIONADO EM SERVIÇO SOCIAL – 2º SEMESTRE
+URL:https://www3.unicentro.br/calendario/event/forum-de-estagio-supervision
+ ado-em-servico-social-2o-semestre/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-248@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -2251,7 +4132,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Protocolo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-431@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -2267,8 +4148,52 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-243@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181105T080000
+DTEND;TZID=America/Sao_Paulo:20181109T173000
+SEQUENCE:0
+SUMMARY:X SEMANA ACADÊMICA DE EDUCAÇÃO FÍSICA
+URL:https://www3.unicentro.br/calendario/event/semana-de-educacao-fisica/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-430@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181105T190000
+DTEND;TZID=America/Sao_Paulo:20181107T220000
+SEQUENCE:0
+SUMMARY:CÍRCULO DE ESTUDOS LINGUÍSTICOS DO SUL – CELSUL
+URL:https://www3.unicentro.br/calendario/event/circulo-de-estudos-linguisti
+ cos-do-sul-celsul/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-432@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181105T190000
+DTEND;TZID=America/Sao_Paulo:20181107T220000
+SEQUENCE:0
+SUMMARY:XIII CÍRCULO DE ESTUDOS LINGUÍSTICOS DO SUL\, CELSUL
+URL:https://www3.unicentro.br/calendario/event/xiii-circulo-de-estudos-ling
+ uisticos-do-sul-celsul/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-433@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -2282,8 +4207,68 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-435@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181108T080000
+DTEND;TZID=America/Sao_Paulo:20181110T180000
+SEQUENCE:0
+SUMMARY:II JOGOS UNIVERSITÁRIOS DE IRATI – JUNI’S
+URL:https://www3.unicentro.br/calendario/event/ii-jogos-universitarios-de-i
+ rati-junis/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Esporte
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-180@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181108T180000
+DTEND;TZID=America/Sao_Paulo:20181108T190000
+SEQUENCE:0
+SUMMARY:QUINTA NOBRE – APRESENTAÇÕES MUSICAIS TEMÁTICAS
+URL:https://www3.unicentro.br/calendario/event/quinta-nobre-apresentacoes-m
+ usicais-tematicas-2/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-438@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181119T080000
+DTEND;TZID=America/Sao_Paulo:20181121T170000
+SEQUENCE:0
+SUMMARY:CONVERSAS LATINAS EM COMUNICAÇÃO 2018
+URL:https://www3.unicentro.br/calendario/event/conversas-latinas-em-comunic
+ acao-2018/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-439@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181121T080000
+DTEND;TZID=America/Sao_Paulo:20181122T180000
+SEQUENCE:0
+SUMMARY:II MOSTRA DE TRABALHOS DE CONCLUSÃO DO CURSO DE FONOAUDIOLOGIA
+URL:https://www3.unicentro.br/calendario/event/ii-mostra-de-trabalhos-de-co
+ nclusao-do-curso-de-fonoaudiologia/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-440@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -2297,8 +4282,54 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-441@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181126T190000
+DTEND;TZID=America/Sao_Paulo:20181128T220000
+SEQUENCE:0
+SUMMARY:XIII SEMANA DE HISTÓRIA E V SEMINÁRIO NACIONAL CONTESTADO
+URL:https://www3.unicentro.br/calendario/event/xiii-semana-de-historia-e-v-
+ seminario-nacional-contestado/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Evento\,Semana de Estudos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-442@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Santa Cruz
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181130T133000
+DTEND;TZID=America/Sao_Paulo:20181130T180000
+SEQUENCE:0
+SUMMARY:ENCERRAMENTO DAS ATIVIDADES DA UNATI
+URL:https://www3.unicentro.br/calendario/event/encerramento-das-atividades-
+ da-unati/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Unati
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-443@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Irati
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181201T130000
+DTEND;TZID=America/Sao_Paulo:20181201T180000
+SEQUENCE:0
+SUMMARY:TÉRMINO DAS ATIVIDADES DA UNIVERSIDADE ABERTA DA TERCEIRA IDADE\, U
+ ATI
+URL:https://www3.unicentro.br/calendario/event/termino-das-atividades-da-un
+ iversidade-aberta-da-terceira-idade-uati/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Uati
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-281@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Santa Cruz
 CONTACT:
 DESCRIPTION:
@@ -2317,7 +4348,7 @@ X-TAGS;LANGUAGE=pt-BR:Data limite\,Estágio\,TCC
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-285@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Irati\,Laranjeiras do Sul\,Pitanga\,Prud
  entópolis\,Santa Cruz
 CONTACT:
@@ -2331,8 +4362,22 @@ X-COST-TYPE:free
 X-TAGS;LANGUAGE=pt-BR:Exames
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-445@www3.unicentro.br/calendario
+DTSTAMP:20180312T011008Z
+CATEGORIES;LANGUAGE=pt-BR:Chopinzinho\,Coronel Vivida
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20181212T073000
+DTEND;TZID=America/Sao_Paulo:20181219T223000
+SEQUENCE:0
+SUMMARY:EXAMES FINAIS
+URL:https://www3.unicentro.br/calendario/event/exames-finais-2/
+X-COST-TYPE:free
+X-TAGS;LANGUAGE=pt-BR:Exames
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-448@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg
 CONTACT:
 DESCRIPTION:
@@ -2347,7 +4392,7 @@ X-TAGS;LANGUAGE=pt-BR:Pré-Vestibular
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-447@www3.unicentro.br/calendario
-DTSTAMP:20180227T181048Z
+DTSTAMP:20180312T011008Z
 CATEGORIES;LANGUAGE=pt-BR:Cedeteg\,Chopinzinho\,Coronel Vivida\,Irati\,Lara
  njeiras do Sul\,Pitanga\,Prudentópolis\,Santa Cruz
 CONTACT:

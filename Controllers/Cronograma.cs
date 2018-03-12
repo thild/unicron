@@ -109,7 +109,7 @@ namespace unicron.Models
                 sabado,
                 meses.Values);
         }
-       
+
     }
     public class Mes
     {
@@ -117,4 +117,15 @@ namespace unicron.Models
         public IList<int> Dias { get; } = new List<int>();
     }
 
+    public enum Categoria
+    {
+        Cedeteg=0,
+        Chopinzinho=1,
+        CoronelVivida=2,
+        Irati=3,
+        LaranjeirasDoSul=4,
+        Pitanga=5,
+        Prudentopolis=6,
+        SantaCruz=7
+    }
 }
