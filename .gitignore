@@ -186,7 +186,6 @@ orleans.codegen.cs
 /node_modules
 
 /yarn.lock
-/npm-shrinkwrap.json
 
 # RIA/Silverlight projects
 Generated_Code/
