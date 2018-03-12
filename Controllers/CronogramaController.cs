@@ -67,13 +67,13 @@ namespace unicron.Controllers
                 dataInicio = calendar.Events.Where(m => m.Summary.Contains("[INICIO_SEM1]")).First().DtStart.Date;
                 dataEncerramento = calendar.Events.Where(m => m.Summary.Contains("[ENCERRAMENTO_SEM1_ANUAL]")).First().DtStart.Date;
                 var recessos1sem = recessosCalendar.Where(m => m.DtStart.Date >= dataInicio && m.
-                     DtEnd.Date >= dataEncerramento)
+                     DtEnd.Date <= dataEncerramento)
                      .SelectMany(m => m.DtStart.Date.Range(m.DtEnd.Date.AddDays(-1)))
                      .ToHashSet();
                 dataInicio = calendar.Events.Where(m => m.Summary.Contains("[INICIO_SEM2]")).First().DtStart.Date;
                 dataEncerramento = calendar.Events.Where(m => m.Summary.Contains("[ENCERRAMENTO_SEM2_ANUAL]")).First().DtStart.Date;
                 var recessos2sem = recessosCalendar.Where(m => m.DtStart.Date >= dataInicio && m.
-                     DtEnd.Date >= dataEncerramento)
+                     DtEnd.Date <= dataEncerramento)
                      .SelectMany(m => m.DtStart.Date.Range(m.DtEnd.Date.AddDays(-1)))
                      .ToHashSet();
                 dataInicio = calendar.Events.Where(m => m.Summary.Contains("[INICIO_SEM1]")).First().DtStart.Date;
